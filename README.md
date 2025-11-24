@@ -72,7 +72,7 @@ To build an interactive, state-wise, and crop-wise analytical dashboard that rev
 * **Sustainability Tracking:** Monitors chemical usage intensity vs yield gain to promote eco-friendly farming.
 * **Policy Support:** Provides data-driven evidence for subsidy distribution and irrigation programs.
 
----
+--
 
 ## 🖼️ Screenshots / Preview
 
