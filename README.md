@@ -80,4 +80,3 @@ To build an interactive, state-wise, and crop-wise analytical dashboard that rev
  ![image alt](https://github.com/MohanS-2009/Crop-Yield-Sustainability-Insights-Dashboard-1997-2020-/blob/main/Crop%20Yield%20%26%20Sustainability%20Insights%20Dashboard%20(1997%20%E2%80%93%202020).jpg)
 
 --
-
